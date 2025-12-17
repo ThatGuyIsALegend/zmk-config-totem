@@ -26,7 +26,7 @@
 
 &uc {
   default-mode = <UC_MODE_MACOS>;
-}
+};
 
 &mt {
     quick-tap-ms = <100>;
